@@ -1,0 +1,8 @@
+/*
+
+compound trigger work only with dml statement
+each section has it own exeption
+an exeption that occurs in one section must be handled in that section
+it cannot transfer control to another section
+
+*/

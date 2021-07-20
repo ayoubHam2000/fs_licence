@@ -1,0 +1,25 @@
+#include <string>
+<< str::hex << 
+ex10
+ex12
+
+ex01--> tp2
+ex03--> tp2
+ex06--> tp2
+
+ex01--> tp3
+ex12--> tp3
+
+ex03--> tp4
+
+//-----------------------------------------
+#include <string>
+
+std::string s(25, 'a');
+std::string t = "new char ";
+s = s + t;
+
+operator int()
+
+//------------------------
+member || enlign
